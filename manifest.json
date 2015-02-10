@@ -16,7 +16,7 @@
 			"http://www.facebook.com/groups/877212202301031/*"
 		],
 		"js": [
-			"jquery.min.js",
+			"lib/jquery.min.js",
 			"app.js"
 		],
 		"run_at": "document_end"
