@@ -31,6 +31,8 @@ $(document).ready(function() {
 	    $("li").find('button:contains("Post")')
 	            .parent().append("<button id='check' class='_42ft _4jy0 _11b _4jy3 _4jy1'>Look for Answer</button>");
 
+	    $("#u_0_2").append("<li class='groupsCleanLinkBorder'><a href='#' class='groupsCleanLink'>Filter Post</a></li>");
+
 	    function check(content) {
 	        var regex;
 
